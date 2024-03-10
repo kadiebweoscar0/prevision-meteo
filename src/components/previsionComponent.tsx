@@ -1,4 +1,3 @@
-import React from 'react'
 import ParagraphDefault from './paragraphDefault'
 import ImageDefaul from './imageDefaul'
 
